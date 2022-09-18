@@ -1,2 +1,4 @@
 # fMRI_Analysis_Examples
 Some sample code of recent fMRI analysis examples. The stand alone python script is a portion of preprocessing pipeline for fMRI data and uses the fMRI python package nilearn for modeling brain responses to 20 second affective videos - saving brain representations for each video and a time series for each individual 8 min scan.  The notebook is an example of Representational Similarity Analysis (RSA), a common fMRI analysis used to determine how similar brain representations (in a region or across the entire brain) to features of a task or individual.  In the current case we're comparing brain responses to affective videos to BERT embedded semantic represenations of the same videos, participants subjective ratings of the videos, and their physiological responses.
+
+Unfortunately the data for both scripts is not publicly available - and scripts are really meant to represent coding level.
